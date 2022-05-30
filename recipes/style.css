@@ -1,14 +1,21 @@
 body {
-    color:white;
-    background-color: black;
+    color: #ffd900b4;
+    background-color: rgba(2, 7, 10, 0.815);
 }
 
 p {
-    color: red;
+    color: peri;
+}
+
+ul {
+    color: navy;
+    background-color: cornflowerblue;
+    font-size: 20px;
+    
 }
 
 ol {
-    color: chartreuse
+    color: navy;
     background-color: cornflowerblue;
     font-size: 20px;
     
